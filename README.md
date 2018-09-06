@@ -1,2 +1,4 @@
 # hello-world
-Refresher on how to use github
+Hello There
+
+I'm doing this as a refresher on Github.
